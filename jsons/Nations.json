@@ -28,7 +28,7 @@
 		"uniqueText": "[[+25]% unhappiness from the number of cities]\n[[-35]% Unhappiness from [Population] [in all cities]]\n[[+25]% growth [in all cities]]\nEarn 15% of killed Military unit's †Strength as [Gold] / [Science] / [Culture]"		
 
 
-		"uniques": ["[+25]% unhappiness from the number of cities", "[-35]% Unhappiness from [Population] [in all cities]", "[+25]% growth [in all cities]", "Earn [15]% of killed [Military] unit's [Strength] as [Science]",
+		"uniques": ["[+25]% unhappiness from the number of cities", "[-35]% Unhappiness from [Population] [in all cities]", "[+25]% growth [in all cities]", "Earn [15]% of killed [Military] unit's [cost] as [Science]", "Earn [15]% of killed [Military] unit's [Cost] as [Gold]", "Earn [15]% of killed [Military] unit's [Cost] as [Culture]"
 		],
 		"cities": ["Mi Casa","Cantabria","Asturias","Bilbao","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
