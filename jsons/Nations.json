@@ -28,14 +28,11 @@
 		"uniqueText": "[[+25]% unhappiness from the number of cities]\n[[-35]% Unhappiness from [Population] [in all cities]]\n[[+25]% growth [in all cities]]\nEarn 15% of killed Military unit's †Strength as [Gold] / [Science] / [Culture]"		
 
 
-		"uniques": ["[0] Movement point cost to disembark <for [All] units>", "No movement cost to pillage <for [Military] units>", "Earn [50]% of killed [Military] unit's [Strength] as [Gold]", "Earn [50]% of killed [Military] unit's [Strength] as [Culture]", "Earn [50]% of killed [Military] unit's [Strength] as [Science]", 
-
-
 		"uniques": ["[+25]% unhappiness from the number of cities", "[-35]% Unhappiness from [Population] [in all cities]", "[+25]% growth [in all cities]", "Earn [15]% of killed [Military] unit's [Strength] as [Science]",
 		],
 		"cities": ["Mi Casa","Cantabria","Asturias","Bilbao","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
 			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"],
-        "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"],        
+        "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]       
     }
     ]
