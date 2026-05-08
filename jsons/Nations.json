@@ -1,8 +1,8 @@
 [
    {
-      "name": "Pakistan",
-      "leaderName": "Jinnah Muhammad Ali",
-      "adjective": ["Pakistani"],
+      "name": "Homo Sapiens",
+      "leaderName": "Presidente",
+      "adjective": ["Humanos"],
       "startBias": ["Hill", "Plains"],
       "preferredVictoryType": "Scientific",
       "favoredReligion": "Islam",
@@ -41,10 +41,10 @@
       ], 
 
       "cities": [
-         "Islamabad",
-         "Karachi",
-         "Lahore",
-         "Faisalabad",
+         "España",
+         "Asturias",
+         "Cantabria",
+         "Bilbao",
          "Ravalpindi",
          "Multan",
          "Gujranwala",
@@ -64,7 +64,7 @@
       ],
 
       "spyNames": [
-          "Aqsaa",
+          "EspañA",
           "Arham",
           "Durab",
           "Chawish",
