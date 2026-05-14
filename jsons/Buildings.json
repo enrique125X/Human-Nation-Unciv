@@ -13,6 +13,7 @@
   "name": "Civilized Leader-RusS",
 		"isNationalWonder": true,
 		"cost":1,
+  "faith": 1,
 		"uniqueTo": "Human",
 		"uniques": ["Can only be built<in [in capital] cities>", "Moves to new capital when capital changes", "Unbuildable"
 		]
