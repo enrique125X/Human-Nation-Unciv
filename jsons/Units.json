@@ -15,5 +15,20 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
 		"attackSound": "elephant"	
-	}
+	},
+	{
+		"name": "Impi",
+		"unitType": "Anti-Mobile",
+		"replaces": "Pikeman",
+		"uniqueTo": "Human",
+		"movement": 2,
+		"strength": 20,
+		"cost": 115,
+		"requiredTech": "Army Formation",
+		"upgradesTo": "Lancer",
+	 //   "obsoleteTech": "Metallurgy",
+	    "promotions": ["[Impi] ability"],
+        "uniques":["[+40]% Strength <vs [{Melee} {Mobile}] units>", "Consumes [-1] [Number of Fighters] <for [Palestine] Civilizations>"]	    
+		"attackSound": "metalhit"		
+	},
 ]
