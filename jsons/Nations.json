@@ -12,6 +12,7 @@
 		"uniqueName": "Population Growth",
 		"uniques": [
    "May buy items in puppet cities",
+	"[1]% Food is carried over after population increases [in all cities]",
    "May buy [Keshik] units with [Gold] [in all non-occupied cities]",
    "May buy [Hypaspist] units with [Gold] [in all non-occupied cities]",
    "[20]% [Production] [in all cities connected to capital]",
