@@ -24,11 +24,11 @@
 		"movement": 2,
 		"strength": 20,
 		"cost": 115,
-		"requiredTech": "Army Formation",
+		"requiredTech": "Engineering",
 		"upgradesTo": "Lancer",
 	 //   "obsoleteTech": "Metallurgy",
 	    "promotions": ["[Impi] ability"],
-        "uniques":["[+40]% Strength <vs [{Melee} {Mobile}] units>", "Consumes [-1] [Number of Fighters] <for [Palestine] Civilizations>"]	    
+        "uniques":["[+40]% Strength <vs [{Melee} {Mobile}] units>"]	    
 		"attackSound": "metalhit"		
 	},
 ]
