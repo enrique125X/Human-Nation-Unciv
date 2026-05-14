@@ -7,6 +7,27 @@
 		"faith": 2, 
 	 "uniques":["Only available <in cities with a [City Level I]>", "Provides [1] [Number of Buildings] <in this city>", "BUILDING", "[+2]% [Food] [in all cities]"]
 	
-   }
+   },
+
+{	
+  "name": "Civilized Leader-RusS",
+		"isNationalWonder": true,
+		"cost":1,
+		"uniqueTo": "Human",
+		"uniques": ["Can only be built<in [in capital] cities>", "Moves to new capital when capital changes", "Unbuildable"
+		]
+	},
+	{
+		"name": "RusS ability",
+		"cost": 10000,
+	    "maintenance": 0,
+		"uniques":["Cannot be purchased","Unsellable", "[+3]% Strength <for [Military] units>", "Automatically built in all cities where it is buildable", 
+		"Only available <in [Annexed] cities> <for [Human] Civilizations> <if [Civilized Leader-RusS]"
+		]	
+
+
+
+
+	}
 ]
 
