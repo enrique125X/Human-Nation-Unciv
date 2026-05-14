@@ -5,7 +5,7 @@
         "uniqueTo": "Human",
 		"food": 1,
 		"faith": 2, 
-		"uniques":[]
+		"uniques":[[2]% [Food] [in all cities]]
 	
    }
 ]
