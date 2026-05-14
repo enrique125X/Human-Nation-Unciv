@@ -5,8 +5,9 @@
         "uniqueTo": "Human",
 		"food": 1,
 		"faith": 2, 
-		"uniques":[[2]% [Food] [in all cities]]
+	 "uniques":["Only available <in cities with a [City Level I]>", "Provides [1] [Number of Buildings] <in this city>", "BUILDING", "[2]% [Food][in all cities]]
 	
+	// 阿兹特克
    }
 ]
 
