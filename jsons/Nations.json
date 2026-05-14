@@ -12,7 +12,7 @@
 		"uniqueName": "Population Growth",
 		"uniques": [
    "May buy items in puppet cities",
-   "May buy [all] units with [Gold] [in all non-occupied cities]",
+   "May buy [Military Order] units with [Gold] [in all non-occupied cities]",
    "[15]% [Production] [in all cities connected to capital]",
    "+1 Culture per 4 population in all cities",
 			"[+25]% unhappiness from the number of cities",
