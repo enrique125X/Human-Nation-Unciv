@@ -1,20 +1,20 @@
 [
   {
-		"name": "Ranger",
-		"unitType": "Ranged Gunpowder",
-		"uniqueTo": "Pakistan",
-		"replaces": "Infantry",
-		"movement": 2,
-		"range": 4,
-		"strength": 70,
-		"cost": 375,
-		"requiredTech": "Plastics",
-		"upgradesTo": "Mechanized Infantry",
-		"obsoleteTech": "Mobile Tactics",
-		"attackSound": "shot",
-		"uniques": [
-		  "[+2] Sight"
-		]
-	}
+		"name": "War Elephant",
+		"unitType": "Mobile",
+		"hurryCostModifier": 15,
+		"uniqueTo": "India",
+		"replaces": "Chariot Archer",
+		"range": 1,
+		"movement": 3,
+		"strength": 10,
+		"rangedStrength": 10,
+		"cost": 75,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Mounted Archer",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus"],
+		"attackSound": "elephant"	
+	},
 ]
 
