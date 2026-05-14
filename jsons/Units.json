@@ -3,7 +3,7 @@
 		"name": "War Elephant",
 		"unitType": "Mobile",
 		"hurryCostModifier": 15,
-		"uniqueTo": ["India"],
+		"uniqueTo": "India",
 		"replaces": "Chariot Archer",
 		"range": 1,
 		"movement": 3,
