@@ -7,18 +7,6 @@
 		"startBias": ["Grassland"],
 	"preferredVictoryType": "Domination",
 
-        "startIntroPart1": "Let's begin!",
-
-        "declaringWar": "Your behavior has angered me. I declare a just war against you",
-		"attacked": "How dare you attack me! My sword will be the only thing waiting for you, and you will return with nothing",
-		"defeated": "Although I failed, I will come back one day. I hope you can treat my people well",
-		
-		"introduction": "I welcome you very much, dear stranger, do you need to sit down and talk?",
-		
-		"neutralHello": "Greetings!",
-		"hateHello": "What?",
-		
-		"tradeRequest": "I will provide enough goods to impress you, and I hope the goods you provide will also impress me",
 
         "outerColor": [14, 113, 4],
         "innerColor": [255, 163, 71],
