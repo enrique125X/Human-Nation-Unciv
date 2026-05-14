@@ -2,7 +2,7 @@
    {
         "name": "Street Food",
         "replaces": "Market",
-        "uniqueTo": "Pakistan",
+        "uniqueTo": "Human",
         "gold": 2,
         "cost": 150,
         "hurryCostModifier": 40,
