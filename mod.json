@@ -1,0 +1,12 @@
+{
+	"modName": "Human Nation",
+	"modVersion": "1.0",
+	"lastUpdated": "2026-05-14",
+	"authors": ["enrique125X"],
+	"modSize": "Small",
+	"permanentIngredients": {
+		"jsons/Nations.json": true,
+		"jsons/Units.json": true,
+		"jsons/Buildings.json": true
+	}
+}
