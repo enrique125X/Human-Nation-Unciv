@@ -5,9 +5,7 @@
         "uniqueTo": "Human",
 		"food": 1,
 		"faith": 2, 
-	 "uniques":["Only available <in cities with a [City Level I]>", "Provides [1] [Number of Buildings] <in this city>", "BUILDING", "[+2]% [Food] [in all cities]", 
-	//	 "[-3]% Culture cost of natural border growth <in all cities connected to capital>"]
-	
+	 "uniques":["Only available <in cities with a [City Level I]>", "Provides [1] [Number of Buildings] <in this city>", "BUILDING", "[+2]% [Food] [in all cities]"]	
    },
 
 {	
