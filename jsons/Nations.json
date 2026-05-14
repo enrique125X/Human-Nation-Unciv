@@ -12,12 +12,12 @@
 		"uniqueName": "Population Growth",
 		"uniques": [
    "May buy items in puppet cities",
-   "May buy [Military] units with [Gold] [in all non-occupied cities]",
+   "May buy ["Military", "Hypaspist"] units with [Gold] [in all non-occupied cities]",
    "[15]% [Production] [in all cities connected to capital]",
    "+1 Culture per 4 population in all cities",
-			"[+25]% unhappiness from the number of cities",
+			"[+40]% unhappiness from the number of cities",
 			"[-35]% Unhappiness from [Population] [in all cities]",
-			"[+25]% growth [in all cities]"
+			"[+30]% growth [in all cities]"
 		],
 		"cities": [
 			"Mi Casa","Cantabria","Asturias","Bilbao","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
