@@ -13,7 +13,7 @@
 		"uniques": [
    "May buy items in puppet cities",
    "[15]% [Production] [in all cities connected to capital]",
-   
+   "+1 Culture per 4 population in all cities",
 			"[+25]% unhappiness from the number of cities",
 			"[-35]% Unhappiness from [Population] [in all cities]",
 			"[+25]% growth [in all cities]"
