@@ -12,6 +12,7 @@
 		"uniqueName": "Population Growth",
 		"uniques": [
    "May buy items in puppet cities",
+   "Earn [20]% of the damage done to [Military] units as [Culture]"
 			"[+25]% unhappiness from the number of cities",
 			"[-35]% Unhappiness from [Population] [in all cities]",
 			"[+25]% growth [in all cities]"
