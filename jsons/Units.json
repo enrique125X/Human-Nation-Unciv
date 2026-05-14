@@ -1,14 +1,13 @@
 [
   {
-		"name": "War Elephant",
+		"name": "Elefante ®",
 		"unitType": "Mobile",
 		"hurryCostModifier": 15,
-		"uniqueTo": "India",
-  "uniqueTo": "Human",
+        "uniqueTo": "Human",
 		"replaces": "Chariot Archer",
 		"range": 1,
 		"movement": 3,
-		"strength": 10,
+		"strength": 11,
 		"rangedStrength": 10,
 		"cost": 75,
 		"requiredTech": "The Wheel",
