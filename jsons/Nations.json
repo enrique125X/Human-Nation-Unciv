@@ -14,9 +14,9 @@
    "May buy items in puppet cities",
   "All newly-trained [Anti-Mobile] units [in all cities connected to capital] receive the [[Impi] ability] promotion",
    "[20]% [Production] [in all cities connected to capital]",
-			"[+40]% unhappiness from the number of cities",
-			"[-35]% Unhappiness from [Population] [in all cities]",
-			"[+35]% growth [in all cities]"
+			"[+80]% unhappiness from the number of cities",
+			"[-40]% Unhappiness from [Population] [in all cities]",
+			"[+40]% growth [in all cities]"
 		],
 		"cities": [
 			"Mi Casa","Cantabria","Asturias","Bilbao","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
