@@ -36,8 +36,8 @@
 	    "maintenance": 0,
 		"uniques":["Cannot be purchased","Unsellable", "Automatically built in all cities where it is buildable",
 		"Only available <in [in City-State cities] cities>",
-		"[+180]% Culture cost of natural border growth [in City-State cities]",
-		"[-40]% growth [in this city]"
+		"[+200]% Culture cost of natural border growth [in City-State cities]",
+		"[-50]% growth [in this city]"
 		]
 
 	}
