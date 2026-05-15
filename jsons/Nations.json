@@ -11,7 +11,7 @@
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Population Growth",
 		"uniques": [
-   "May buy items in puppet cities",
+   "May buy items in puppet cities",	"Starts with [Mercantilism] adopted",
   "All newly-trained [Anti-Mobile] units [in all cities connected to capital] receive the [[Impi] ability] promotion",
    "[20]% [Production] [in all cities connected to capital]",
 			"[+80]% unhappiness from the number of cities",
