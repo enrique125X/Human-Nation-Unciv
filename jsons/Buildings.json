@@ -35,6 +35,7 @@
 	    "maintenance": 0,
 		"uniques":["Cannot be purchased","Unsellable", "Automatically built in all cities where it is buildable <for [City-States] Civilizations>",
 		"Only available <in [in all cities] cities> <for [City-States] Civilizations>"	}
+		]
 
 
 
