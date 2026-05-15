@@ -1,4 +1,4 @@
-[
+ [
 	{
 		"name": "Human",
 		"leaderName": "Henric el Soberbio",
@@ -14,7 +14,7 @@
    "May buy items in puppet cities",	"Starts with [Mercantilism] adopted",
   "All newly-trained [Anti-Mobile] units [in all cities connected to capital] receive the [[Impi] ability] promotion",
    "[20]% [Production] [in all cities connected to capital]",
-			"[+80]% unhappiness from the number of cities",
+			"[+120]% unhappiness from the number of cities",
 			"[-40]% Unhappiness from [Population] [in all cities]",
 			"[+40]% growth [in all cities]"
 		],
