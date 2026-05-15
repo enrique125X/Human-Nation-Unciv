@@ -13,7 +13,7 @@
 		"uniques": [
    "May buy items in puppet cities",	"Starts with [Mercantilism] adopted",
 "All newly-trained [Melee] units [in all cities connected to capital] receive the [[Hypaspist] ability] promotion",
-			"All newly-trained [Ranged] units [in all cities connected to capital] receive the [[.  ] ability] promotion",
+			"All newly-trained [Military] units [in all cities connected to capital] receive the [[Sealift] ability] promotion",
    "[20]% [Production] [in all cities connected to capital]",
 			"[+120]% unhappiness from the number of cities",
 			"[-40]% Unhappiness from [Population] [in all cities]",
