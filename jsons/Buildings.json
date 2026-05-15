@@ -26,11 +26,11 @@
 		"name": "RusS ability",
 		"cost": 10000,
 	    "maintenance": 0,
-		"uniques":["Cannot be purchased","Unsellable", "[+3]% Strength <for [Military] units>", "Automatically built in all cities where it is buildable [Human] Civilizations>"	]	
+		"uniques":["Cannot be purchased","Unsellable", "[+3]% Strength <for [Military] units>", "Automatically built in all cities where it is buildable [Human] Civilizations>"	]
+	},
 
 
 
-
-	}
+	Automatically built in all cities where it is buildable <for [City-States] Civilizations> <every [positiveAmount] turns>
 ]
 
