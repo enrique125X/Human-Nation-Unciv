@@ -27,15 +27,14 @@
 		"cost": 10000,
 	    "maintenance": 0,
 		"uniques":["Cannot be purchased","Unsellable", "[+3]% Strength <for [Military] units>", "Automatically built in all cities where it is buildable>",
-	   "Only available <for [Human player] Civilizations>"]
+	   "Only available <in [in all cities] <for [Human player] Civilizations>"]
 	},
 	{
 		"name": "Debility State",
 		"cost": 10000,
 	    "maintenance": 0,
 		"uniques":["Cannot be purchased","Unsellable", "Automatically built in all cities where it is buildable <for [City-States] Civilizations>",
-		"Only available <for [City-States] Civilizations>"]
-	}
+		"Only available <in [in all cities] cities> <for [City-States] Civilizations>"	}
 
 
 
