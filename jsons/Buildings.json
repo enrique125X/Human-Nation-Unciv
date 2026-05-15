@@ -34,7 +34,7 @@
 		"cost": 10000,
 	    "maintenance": 0,
 		"uniques":["Cannot be purchased","Unsellable", "Automatically built in all cities where it is buildable <for [City-States] Civilizations>",
-		"Only available <for [Human player] Civilizations>"]
+		"Only available <for [City-States] Civilizations>"]
 	}
 
 
