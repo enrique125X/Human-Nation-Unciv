@@ -5,7 +5,7 @@
         "uniqueTo": "Human",
 	    "maintenance": 1,
 		"food": 1,
-	    "cost":45,
+	    "cost":40,
 		"faith": 1,
 	    "uniques": ["[+1]% [Food] [in all cities]",
    	    "[1]% Food is carried over after population increases [in all cities]"
