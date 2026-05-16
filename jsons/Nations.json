@@ -11,13 +11,13 @@
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Population Growth",
 		"uniques": [
-   "May buy items in puppet cities",	"Starts with [Mercantilism] adopted",
-"All newly-trained [Melee] units [in all cities connected to capital] receive the [[Hypaspist] ability] promotion",
-			"All newly-trained [Military] units [in all cities connected to capital] receive the [Sealift] promotion",
+  "May buy items in puppet cities",	"Starts with [Mercantilism] adopted",
+  "All newly-trained [Melee] units [in all cities connected to capital] receive the [[Hypaspist] ability] promotion",
+		"All newly-trained [Military] units [in all cities connected to capital] receive the [Sealift] promotion",
    "[20]% [Production] [in all cities connected to capital]",
-			"[+120]% unhappiness from the number of cities",
-			"[-40]% Unhappiness from [Population] [in all cities]",
-			"[+40]% growth [in all cities]"
+			"[+100]% unhappiness from the number of cities",
+			"[-50]% Unhappiness from [Population] [in all cities]",
+			"[+25]% growth [in all cities]"
 		],
 		"cities": [
 			"Mi Casa","Cantabria","Asturias","Bilbao","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
