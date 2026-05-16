@@ -4,7 +4,6 @@
 		"replaces": "Shrine",
         "uniqueTo": "Human",
 	    "maintenance": 1,
-		"requiredTech": "Belief Worship",
 		"food": 1,
 	    "cost":45,
 		"faith": 1,
