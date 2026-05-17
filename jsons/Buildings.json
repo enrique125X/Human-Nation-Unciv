@@ -30,6 +30,15 @@
 		]	
 	},
 	{
+		"name": "Equilibrio",
+		"cost": 10000,
+	    "maintenance": 0,
+		"uniques":["Cannot be purchased","Unsellable", 
+	    "[-50]% Culture cost of natural border growth [all]",
+		"Only available <in [all] cities>"
+			},
+			
+	{
 		"name": "Debility State",
 		"cost": 10000,
 	    "maintenance": 0,
