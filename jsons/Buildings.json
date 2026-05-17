@@ -2,7 +2,7 @@
    {
 		"name": "Al Cuadrado",
 		"replaces": "Shrine",
-        "uniqueTo": "Human",
+        "uniqueTo": "India",
 	    "maintenance": 1,
 		"food": 1,
 	    "cost":40,
@@ -17,7 +17,7 @@
 		"isNationalWonder": true,
 		"cost":1,
   "faith": 1,
-		"uniqueTo": "Human",
+		"uniqueTo": "India",
 		"uniques": ["Can only be built<in [in capital] cities>", "Moves to new capital when capital changes", "Unbuildable"
 		]
 	},
@@ -25,8 +25,8 @@
 		"name": "RusS ability",
 		"cost": 10000,
 	    "maintenance": 0,
-		"uniques":["Cannot be purchased","Unsellable", "[+2]% Strength <for [Military] units>", "Automatically built in all cities where it is buildable",
-	    "Only available <in [all] cities> <for [Human] Civilizations>"
+		"uniques":["Cannot be purchased","Unsellable", "[+1]% Strength <for [Military] units>", "Automatically built in all cities where it is buildable",
+	    "Only available <in [all] cities> <for [India] Civilizations>"
 		]	
 	},
 	{
