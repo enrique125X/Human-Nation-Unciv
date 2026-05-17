@@ -4,6 +4,7 @@
 		"replaces": "Shrine",
         "uniqueTo": "India",
 	    "maintenance": 1,
+	    "culture": 1,
 		"food": 1,
 	    "cost":40,
 		"faith": 1,
