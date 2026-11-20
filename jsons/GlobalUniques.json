@@ -11,7 +11,8 @@
     "Set [P0] to [[TG] resource of [Major] Civilizations] <upon turn start> <when number of [[turns]%5] is equal to [0]>",
     "Set [P1] to [[TG] resource of [Major] Civilizations] <upon turn start> <when number of [[turns]%5] is equal to [1]>",
     "Set [P2] to [[TG] resource of [Major] Civilizations] <upon turn start> <when number of [[turns]%5] is equal to [2]>",
-    "Set [P3] to [[TG] resource of [Major] Civilizations] <upon turn start> <when number of [[turns]%5] is equal to [3]>"    "Set [P4] to [[TG] resource of [Major] Civilizations] <upon turn start> <when number of [[turns]%5] is equal to [4]>", 
+    "Set [P3] to [[TG] resource of [Major] Civilizations] <upon turn start> <when number of [[turns]%5] is equal to [3]>",
+"Set [P4] to [[TG] resource of [Major] Civilizations] <upon turn start> <when number of [[turns]%5] is equal to [4]>", 
       
     // 计算
     "Set [Price Index] to [min(max((47.6*[[TG] resource of [Major] Civilizations]/([P0]+[P1]+[P2]+[P3]+[P4])-20+[TG]*[Remaining [Major] Civilizations]/[[TG] resource of [Major] Civilizations]*10), -50), 200)] <upon turn end>",
