@@ -2,7 +2,7 @@
 	{
 		"name": "India",
 		"leaderName": "Henric el Soberbio",
-		"personality": ["India"],
+//		"personality": ["India"],
 		"adjective": ["Indian"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
