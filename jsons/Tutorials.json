@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Edificios Esenciales (Lite CN)",
+    "category": "Mecánicas del Mod",
+    "civilopediaText": [
+      {
+        "text": "Edificios Esenciales Optimizados para UncivCN",
+        "header": 3,
+        "color": "#f59e0b"
+      },
+      {
+        "text": "Versión recortada y fusionada (10 edificios nuevos + 2 mejoras TRY_INJECT en Granary/Workshop) diseñada para evitar clonaciones innecesarias de la IA en ConstructionAutomation y reducir al mínimo las evaluaciones por casilla."
+      },
+      {
+        "separator": true
+      },
+      {
+        "text": "Fusiones principales incluidas:",
+        "header": 4,
+        "color": "#38bdf8"
+      },
+      {
+        "text": "Coastal Works: fusiona Desalination Plant y Brine Processing Plant (requiere Costa).",
+        "starred": true
+      },
+      {
+        "text": "Smokery: fusiona Slaughterhouse y Smokery con un único filtro [Pasture].",
+        "starred": true
+      },
+      {
+        "text": "Terrace Greenhouse: fusiona Greenhouse y Mushroom Farm en bono directo junto a colina.",
+        "starred": true
+      },
+      {
+        "text": "Industrial Foundry: sustituye 5 edificios industriales mediante MultipleConstruction (3× por ciudad).",
+        "starred": true
+      },
+      {
+        "text": "Cannery: fusiona Icehouse, Cannery y Sugar Refinery.",
+        "starred": true
+      },
+      {
+        "text": "Apothecary: unifica la rama botánica/científica junto con la promoción Organic Remedies.",
+        "starred": true
+      },
+      {
+        "text": "Mountain Resort: unifica los 4 resorts en un edificio específico para ciudades de montaña.",
+        "starred": true
+      }
+    ]
+  }
+]

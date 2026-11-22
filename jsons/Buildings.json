@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Granary",
+    "_mergeAction": {
+      "action": "TRY_INJECT"
+    },
+    "uniques": [
+      "[+1 Gold, +1 Happiness] <after discovering [Masonry]>"
+    ]
+  },
+  {
+    "name": "Workshop",
+    "_mergeAction": {
+      "action": "TRY_INJECT"
+    },
+    "uniques": [
+      "[+5]% Production when constructing [All] buildings [in this city]"
+    ]
+  },
+  {
+    "name": "Coastal Works",
+    "cost": 150,
+    "food": 2,
+    "happiness": 1,
+    "maintenance": 2,
+    "requiredTech": "Bronze Working",
+    "uniques": [
+      "Must be next to [Coast]",
+      "[+1 Production] from [Coast] tiles [in this city]"
+    ]
+  },
+  {
+    "name": "Shipyard",
+    "cost": 200,
+    "production": 2,
+    "maintenance": 1,
+    "requiredTech": "Sailing",
+    "uniques": [
+      "Must be next to [Coast]",
+      "[+15]% Production when constructing [Water] units [in this city]"
+    ]
+  },
+  {
+    "name": "Smokery",
+    "cost": 120,
+    "food": 2,
+    "maintenance": 2,
+    "requiredBuilding": "Granary",
+    "requiredNearbyImprovedResources": [
+      "Sheep",
+      "Deer",
+      "Cattle",
+      "Horses"
+    ],
+    "requiredTech": "Animal Husbandry",
+    "uniques": [
+      "[+1 Food] from [Pasture] tiles [in this city]"
+    ]
+  },
+  {
+    "name": "Terrace Greenhouse",
+    "cost": 140,
+    "food": 3,
+    "production": 1,
+    "maintenance": 2,
+    "requiredBuilding": "Granary",
+    "requiredTech": "Construction",
+    "uniques": [
+      "Must be next to [Hill]",
+      "Obsolete with [Biology]"
+    ]
+  },
+  {
+    "name": "Industrial Foundry",
+    "cost": 190,
+    "production": 3,
+    "gold": 1,
+    "maintenance": 2,
+    "percentStatBonus": {
+      "production": 5
+    },
+    "specialistSlots": {
+      "Engineer": 1
+    },
+    "requiredBuilding": "Workshop",
+    "requiredTech": "Metal Casting",
+    "uniques": [
+      "Can be built [3] times in each city"
+    ]
+  },
+  {
+    "name": "Apothecary",
+    "cost": 240,
+    "food": 2,
+    "science": 3,
+    "happiness": 2,
+    "maintenance": 2,
+    "specialistSlots": {
+      "Scientist": 1
+    },
+    "requiredBuilding": "Library",
+    "requiredTech": "Education",
+    "uniques": [
+      "[+1 Science] from [Forest] tiles [in this city]",
+      "All newly-trained [Melee] units [in this city] receive the [Organic Remedies] promotion"
+    ]
+  },
+  {
+    "name": "Cannery",
+    "cost": 260,
+    "food": 2,
+    "production": 2,
+    "maintenance": 2,
+    "percentStatBonus": {
+      "food": 12
+    },
+    "specialistSlots": {
+      "Engineer": 1
+    },
+    "requiredBuilding": "Granary",
+    "requiredTech": "Metallurgy"
+  },
+  {
+    "name": "Mountain Resort",
+    "cost": 300,
+    "happiness": 4,
+    "gold": 2,
+    "maintenance": 2,
+    "requiredTech": "Railroads",
+    "uniques": [
+      "Must be next to [Mountain]"
+    ]
+  },
+  {
+    "name": "Powder Mill",
+    "cost": 160,
+    "production": 3,
+    "gold": 2,
+    "maintenance": 2,
+    "percentStatBonus": {
+      "production": 5
+    },
+    "requiredBuilding": "Barracks",
+    "requiredTech": "Gunpowder",
+    "uniques": [
+      "[+15]% Production when constructing [Land] units [in this city]"
+    ]
+  },
+  {
+    "name": "Supermarket",
+    "cost": 350,
+    "food": 3,
+    "gold": 3,
+    "maintenance": 3,
+    "percentStatBonus": {
+      "gold": 10
+    },
+    "requiredBuilding": "Market",
+    "requiredTech": "Replaceable Parts"
+  }
+]
